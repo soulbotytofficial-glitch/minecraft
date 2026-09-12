@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mubinabijal.aternos.me",
-    "port": 41627,
+    "ip": "originalsmp.aternos.me",
+    "port": 57179,
     "version": "1.20.1",
     "try-creative": false
   },
